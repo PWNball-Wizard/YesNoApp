@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       title: 'Yes No App',
       //! debugShowCheckedModeBanner es un booleano que muestra o no la cinta de depuración en la parte superior derecha de la aplicación
       debugShowCheckedModeBanner: false,
-      theme: AppTheme(colorIndex: 1).theme(),
+      theme: AppTheme(colorIndex: 2).theme(),
       home: const Scaffold(
         //! El appBar es la barra de título de la aplicación
         /* appBar: AppBar(
